@@ -119,3 +119,90 @@ _July 2013 – June 2016_
 ⭐ *Open to Business Analyst / Data Analyst opportunities*  
 📈 *Focused on analytics, automation, and impact-driven insights*
 
+
+
+
+## 📊 Power BI Portfolio
+
+A collection of end-to-end **Power BI projects** focused on business insights, automation, and decision support.
+
+---
+
+### 🔹 Sales Performance Dashboard
+**Objective:**  
+Analyze sales trends, revenue contribution, and regional performance.
+
+**Key Features:**
+- KPI cards (Revenue, Growth %, Orders)
+- Region-wise & product-wise drill-down
+- Time intelligence (MoM, YoY)
+- Interactive slicers
+
+**Tools Used:**  
+Power BI, Power Query, Excel, DAX
+
+**Business Impact:**  
+Enabled management to identify high-performing regions and revenue leakage.
+
+📁 Repository: `PowerBI-Sales-Dashboard`
+
+---
+
+### 🔹 Operations & Process Efficiency Dashboard
+**Objective:**  
+Identify bottlenecks and operational gaps across business processes.
+
+**Key Features:**
+- Process cycle time analysis
+- Exception & delay tracking
+- Root-cause indicators
+- Team-wise performance metrics
+
+**Tools Used:**  
+Power BI, SQL, Power Query
+
+**Business Impact:**  
+Reduced reporting time and improved operational visibility.
+
+📁 Repository: `PowerBI-Operations-Analytics`
+
+---
+
+### 🔹 Financial & P&L Analysis Dashboard
+**Objective:**  
+Provide management-level visibility into profitability and cost drivers.
+
+**Key Features:**
+- P&L summary view
+- Cost vs revenue trends
+- Variance analysis
+- Scenario comparison
+
+**Tools Used:**  
+Power BI, Excel, SQL
+
+**Business Impact:**  
+Supported strategic decisions with multi-angle financial insights.
+
+📁 Repository: `PowerBI-Financial-Analysis`
+
+---
+
+### 🔹 Automated Reporting System
+**Objective:**  
+Replace manual reports with automated, refreshable dashboards.
+
+**Key Features:**
+- Data cleaning via Power Query
+- Scheduled refresh-ready model
+- Standardized reporting format
+
+**Tools Used:**  
+Power BI, Power Query, Excel Automation
+
+**Business Impact:**  
+Saved manual effort and ensured consistent reporting.
+
+📁 Repository: `PowerBI-Automation`
+
+
