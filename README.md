@@ -144,7 +144,7 @@ Power BI, Power Query, Excel, DAX
 **Business Impact:**  
 Enabled management to identify high-performing regions and revenue leakage.
 
-📁 Repository: `PowerBI-Sales-Dashboard`
+📁 Repository: `Soon`
 
 ---
 
@@ -184,7 +184,7 @@ Power BI, Excel, SQL
 **Business Impact:**  
 Supported strategic decisions with multi-angle financial insights.
 
-📁 Repository: `PowerBI-Financial-Analysis`
+📁 Repository: `Soon`
 
 ---
 
@@ -203,6 +203,6 @@ Power BI, Power Query, Excel Automation
 **Business Impact:**  
 Saved manual effort and ensured consistent reporting.
 
-📁 Repository: `PowerBI-Automation`
+📁 Repository: `Soon`
 
 
